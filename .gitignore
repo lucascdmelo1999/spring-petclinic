@@ -1,3 +1,4 @@
+privates/* 
 target/*
 .settings/*
 .classpath
